@@ -1,6 +1,6 @@
 # fa-vue3-template-icons
 
-This Vue 3 template uses the Composition API should help get you started developing with Vue 3 in Vite.
+This Vue 3 template uses the Composition API and should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
