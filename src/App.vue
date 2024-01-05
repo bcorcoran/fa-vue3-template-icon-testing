@@ -1,14 +1,11 @@
 <template>
   <div class="wrapper">
-    <FaTesting />
+    <RouterView />
   </div>
-
-  <RouterView />
 </template>
 
 <script setup>
 import { RouterView } from 'vue-router'
-import FaTesting from './components/FaTesting.vue'
 </script>
 
 <style scoped>

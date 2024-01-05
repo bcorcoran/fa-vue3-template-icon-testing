@@ -9,7 +9,6 @@
   </button>
 </template>
 <script setup>
-import { defineProps } from 'vue'
 // import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { FontAwesomeIcon as Icon } from '@fortawesome/vue-fontawesome'
 
